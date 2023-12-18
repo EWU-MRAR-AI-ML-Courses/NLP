@@ -5,15 +5,11 @@ The purpose of this repository is to create a collaborative space where students
 - **Sentiment Analysis:** Methods for analyzing and predicting sentiments in text.
 - **LLM Based Approaches:** Exploring the capabilities and applications of Large Language Models in NLP.
 
-# How to Contribute
-
-We encourage contributions! If you have a project, notebook, or resources related to NLP, you're welcome to contribute.
-
-To contribute:
+# To use:
 
 - Fork the repository.
-- Create a new branch for your contribution (git checkout -b feature/YourFeature).
-- Add your contributions.
+- Create a new branch for your change (git checkout -b feature/YourFeature).
+- Add your changes.
 - Commit your changes (git commit -am 'Add some feature').
 - Push to the branch (git push origin feature/YourFeature).
 - Create a new Pull Request.
